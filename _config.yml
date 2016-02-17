@@ -1,4 +1,19 @@
-analytics: {}
+name: NVphonography
+favicon: null
+layout_spectrum: 0.10550380792355807
+typography_spectrum: 0.6481130919946752
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#D8D0C0'
@@ -7,12 +22,10 @@ color:
     - '#405890'
     - '#E8F0F8'
   brandStrength: 0.012709
-  lightness: 0.70498
-  rhythmicContrast: 0.317097
-  saturation: 0.464738
-cta: {}
-layout_spectrum: 0.10550380792355807
-name: NVphonography
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.6481130919946752
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
+purpose:
+  - name: null
+    item: null
+    url: null
